@@ -1,0 +1,6 @@
+{
+  "name": "daily-page",
+  "version": "0.1.0",
+  "description": "A notebook-page side panel with a mascot, live tool tallies, a todo sticky note, and a usage gauge.",
+  "types": "./types/index.d.ts"
+}

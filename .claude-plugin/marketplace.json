@@ -1,0 +1,5 @@
+{
+  "name": "plugin-claude",
+  "owner": { "name": "Rom10811" },
+  "plugins": [{ "name": "daily-page", "source": "./" }]
+}
